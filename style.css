@@ -1,0 +1,39 @@
+div {
+    border: 1px solid black;
+    width: 900px;
+    height: 900px;
+    padding: 0;
+    margin: 0;
+}
+#A1 {
+    border: 1px solid black;
+    width: 200px;
+    height: 500px;
+    padding: 0px;
+    margin: 200px 0px 0px 0px;
+    float: left;
+}
+
+#B1 {
+    border: 1px solid black;
+    width: 200px;
+    height: 500px;
+    padding: 0;
+    margin: 200px 0px 0px 0px;
+    float: right;
+}
+#C1 {
+    border: 1px solid black;
+    width: 497px;
+    height: 100px;
+    padding: 0px;
+    margin: 200px 200px 0px 200px;
+  }
+  #D1 {
+    border: 1px solid black;
+    width: 497px;
+    height: 398px;
+    padding: 0px;
+    margin: 0px 200px 0px 200px;
+
+  }
